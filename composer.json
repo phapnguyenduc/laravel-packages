@@ -1,0 +1,19 @@
+{
+    "name": "phapnguyenduc/math-basic",
+    "description": "A basic math package for Laravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhapNguyenDuc\\MathBasic\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phap.nguyenduc",
+            "email": "phap.nguyenduc@vti.com.vn"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
